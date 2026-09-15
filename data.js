@@ -492,7 +492,7 @@ const MAP_PRIORITY = ["free", "usa", "canada", "australia", "schengen"];
 const FAN_GATE = {
   enabled: true,
   title: "粉丝专享 · 签证办理助手",
-  accounts: "抖音：@你的账号 ｜ 小红书：@你的账号",
+  accounts: "抖音：@何堡宝的日常 ｜ 小红书：@何堡宝的日常",
   hint: "关注我的抖音 / 小红书，在置顶作品简介中获取粉丝口令",
   codes: ["fan2026", "douyin666", "xhs888"]
 };
