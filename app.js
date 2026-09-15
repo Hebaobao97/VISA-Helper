@@ -231,7 +231,7 @@ function initFanGate() {
       localStorage.setItem("fan_verified", "1");
       gate.classList.add("hidden");
     } else {
-      $("#gate-err").textContent = "❌ 口令不对，去置顶视频 / 笔记简介里看看哦";
+      $("#gate-err").textContent = "❌ 口令不对，关注 @何堡宝的日常 私信【签证】自动获取哦";
     }
   };
   $("#btn-gate").onclick = tryUnlock;
